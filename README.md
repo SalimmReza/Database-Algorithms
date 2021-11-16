@@ -22,6 +22,10 @@ Insertion in an empty List
 
 Initially, when the list is empty, last pointer will be NULL. 
 
+<p align="center"><img src="https://user-images.githubusercontent.com/91980956/142001552-3e6d0f69-5542-4506-bfb1-4bd8cf1e4a20.png" width="600" height="400" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91980956/142001577-498745ca-9ad3-40ad-936b-8b5d7edc55b1.png" width="400" height="400" /></p>
+
+
 Time complexity:
 circular singly linked list can be done in O(1) time.
 
