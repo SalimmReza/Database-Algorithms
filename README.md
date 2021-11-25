@@ -46,6 +46,8 @@ circular singly linked list can be done in O(1) time.
 8. Pop and output from the stack until it is not empty.
 
 
+<p align="center"><img src="https://user-images.githubusercontent.com/91980956/143436908-379eb898-df5f-4968-bfe7-e94d82e3ffac.jpg" width="600" height="400" /></p>
+
 
 ### Time complexity:
 
