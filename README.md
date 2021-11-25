@@ -1,4 +1,4 @@
-Bank simulation:
+  <h1 align="center"> **Banksimulation** </h1>
 
 1.1 Algorithm Design
 
